@@ -1,0 +1,5 @@
+  1                         - catm = CorAtmMod
+CLOUT4w_Q2_atm01_0014_10PeV_15_009    - fn_in
+-1000.00                    - zz, m
+ 2                          - key: 0-signal only, 1-BG only, >=2-both
+ 1                          - last_c

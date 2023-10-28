@@ -1,0 +1,35 @@
+Screen {
+    layout: grid;
+    grid-size: 2;
+    grid-gutter: 1;
+        background: darkblue;
+    grid-columns: 0.5fr 2fr;
+}
+
+.box {
+    height: 1fr;
+    background: black;
+    width: 1fr;
+    border: solid blue;
+}
+#tabs {
+    height: 0.15fr;
+    grid-size: 4;
+    grid-columns: 1fr 1fr 1fr 1fr;
+    background: black;
+    border: solid blue;
+}
+#config {
+    height: 100%;
+    background: black;
+    width: 1fr;
+    border: solid blue;
+}
+#buttons_main {
+    height: 0.125fr;
+    grid-size: 4;
+    grid-columns: 1fr 1fr 1fr 1fr;
+    background: black;
+    border: solid blue;
+}
+
